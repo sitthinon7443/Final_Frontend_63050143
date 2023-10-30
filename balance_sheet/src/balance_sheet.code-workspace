@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Node-Express-MYSQL-CRUD_API"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "balance_sheet"
+	}
+}
